@@ -1,0 +1,7 @@
+# Personal RetroArch configs and backups
+*.cfg
+*.cfg.*
+*.bak
+*.orig
+*.tmp
+__pycache__/
