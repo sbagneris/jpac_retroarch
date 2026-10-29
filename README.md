@@ -151,3 +151,7 @@ The script also checks for **any other bind** in your config that uses a J-PAC k
 - The script changes only the keyboard settings listed above (`input_player1_a = "..."` and so on). It leaves joypad (`_btn`), axis and mouse binds alone, so a gamepad configured alongside the J-PAC keeps working.
 - If a setting is missing from your config, the script adds it. Otherwise RetroArch would fall back to its built-in default, which may be a J-PAC key.
 - To undo the changes, copy `retroarch.cfg.bak` back over `retroarch.cfg`.
+
+## License
+
+BSD 3-Clause. See [LICENSE](LICENSE).
